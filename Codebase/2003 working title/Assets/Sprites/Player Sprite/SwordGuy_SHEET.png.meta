@@ -1,0 +1,3089 @@
+fileFormatVersion: 2
+guid: 11ea094bb70a3b5458cdb570258acef6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9169504881596228549
+    second: SwordGuy_SHEET_0
+  - first:
+      213: 3626046115611778959
+    second: SwordGuy_SHEET_1
+  - first:
+      213: 8910027093358812625
+    second: SwordGuy_SHEET_2
+  - first:
+      213: -8137612496576460042
+    second: SwordGuy_SHEET_3
+  - first:
+      213: 2031879328533212592
+    second: SwordGuy_SHEET_4
+  - first:
+      213: 640738297586045133
+    second: SwordGuy_SHEET_5
+  - first:
+      213: 3122714870820508915
+    second: SwordGuy_SHEET_6
+  - first:
+      213: 3952354747574398381
+    second: SwordGuy_SHEET_7
+  - first:
+      213: 6043500847393076665
+    second: SwordGuy_SHEET_8
+  - first:
+      213: -6938792655693572577
+    second: SwordGuy_SHEET_9
+  - first:
+      213: -6589389055172540620
+    second: SwordGuy_SHEET_10
+  - first:
+      213: 1187926910857407721
+    second: SwordGuy_SHEET_11
+  - first:
+      213: -2753860316464402625
+    second: SwordGuy_SHEET_12
+  - first:
+      213: 1023872796559868631
+    second: SwordGuy_SHEET_13
+  - first:
+      213: 1512638704572707321
+    second: SwordGuy_SHEET_14
+  - first:
+      213: 674530069457834279
+    second: SwordGuy_SHEET_15
+  - first:
+      213: -195455642871095593
+    second: SwordGuy_SHEET_16
+  - first:
+      213: 651327156998300078
+    second: SwordGuy_SHEET_17
+  - first:
+      213: -8578494701637402327
+    second: SwordGuy_SHEET_18
+  - first:
+      213: -68126192250126531
+    second: SwordGuy_SHEET_19
+  - first:
+      213: -6969189730261786685
+    second: SwordGuy_SHEET_20
+  - first:
+      213: 2535266496468083340
+    second: SwordGuy_SHEET_21
+  - first:
+      213: -1950443712867840670
+    second: SwordGuy_SHEET_22
+  - first:
+      213: -1131793671283286534
+    second: SwordGuy_SHEET_23
+  - first:
+      213: -4919315738943293080
+    second: SwordGuy_SHEET_24
+  - first:
+      213: 9200039550255426699
+    second: SwordGuy_SHEET_25
+  - first:
+      213: 2778242417483046957
+    second: SwordGuy_SHEET_26
+  - first:
+      213: -2367103260621671232
+    second: SwordGuy_SHEET_27
+  - first:
+      213: 6598377032974707033
+    second: SwordGuy_SHEET_28
+  - first:
+      213: -6568693085635114220
+    second: SwordGuy_SHEET_29
+  - first:
+      213: -1805925242345179686
+    second: SwordGuy_SHEET_30
+  - first:
+      213: -6170437795156015107
+    second: SwordGuy_SHEET_31
+  - first:
+      213: -3928853887599073065
+    second: SwordGuy_SHEET_32
+  - first:
+      213: -5664631989735604853
+    second: SwordGuy_SHEET_33
+  - first:
+      213: 4433912280945149460
+    second: SwordGuy_SHEET_34
+  - first:
+      213: 5204028801999346028
+    second: SwordGuy_SHEET_35
+  - first:
+      213: -2296640048278105122
+    second: SwordGuy_SHEET_36
+  - first:
+      213: -709288638083899368
+    second: SwordGuy_SHEET_37
+  - first:
+      213: -8632813145727034845
+    second: SwordGuy_SHEET_38
+  - first:
+      213: 8998034900233611495
+    second: SwordGuy_SHEET_39
+  - first:
+      213: 9156902361033814232
+    second: SwordGuy_SHEET_40
+  - first:
+      213: 5637048506945843339
+    second: SwordGuy_SHEET_41
+  - first:
+      213: -1293385364885623154
+    second: SwordGuy_SHEET_42
+  - first:
+      213: 1676918161963877042
+    second: SwordGuy_SHEET_43
+  - first:
+      213: 1920564982128296743
+    second: SwordGuy_SHEET_44
+  - first:
+      213: -517363537231575495
+    second: SwordGuy_SHEET_45
+  - first:
+      213: -1890842022122686458
+    second: SwordGuy_SHEET_46
+  - first:
+      213: -7983925833042196878
+    second: SwordGuy_SHEET_47
+  - first:
+      213: 8560015162601466520
+    second: SwordGuy_SHEET_48
+  - first:
+      213: 4329258818591597879
+    second: SwordGuy_SHEET_49
+  - first:
+      213: -4393385617768599223
+    second: SwordGuy_SHEET_50
+  - first:
+      213: 1610346071899023119
+    second: SwordGuy_SHEET_51
+  - first:
+      213: 3063652708195993346
+    second: SwordGuy_SHEET_52
+  - first:
+      213: -2846020804521764441
+    second: SwordGuy_SHEET_53
+  - first:
+      213: -1704725080653862777
+    second: SwordGuy_SHEET_54
+  - first:
+      213: -1060794236833161747
+    second: SwordGuy_SHEET_55
+  - first:
+      213: 3899707932805164743
+    second: SwordGuy_SHEET_56
+  - first:
+      213: -6591621456599818230
+    second: SwordGuy_SHEET_57
+  - first:
+      213: -990407446496431917
+    second: SwordGuy_SHEET_58
+  - first:
+      213: 4028131328107644657
+    second: SwordGuy_SHEET_59
+  - first:
+      213: -4568630282011842661
+    second: SwordGuy_SHEET_60
+  - first:
+      213: -7011089884379438446
+    second: SwordGuy_SHEET_61
+  - first:
+      213: 1646848620332146336
+    second: SwordGuy_SHEET_62
+  - first:
+      213: -2628236022680341737
+    second: SwordGuy_SHEET_63
+  - first:
+      213: 927412290562105416
+    second: SwordGuy_SHEET_64
+  - first:
+      213: -1857289552378502112
+    second: SwordGuy_SHEET_65
+  - first:
+      213: -5769634536691127628
+    second: SwordGuy_SHEET_66
+  - first:
+      213: 5453039121858975296
+    second: SwordGuy_SHEET_67
+  - first:
+      213: 1757001734232738953
+    second: SwordGuy_SHEET_68
+  - first:
+      213: -3094287747864337773
+    second: SwordGuy_SHEET_69
+  - first:
+      213: 4501775504603517867
+    second: SwordGuy_SHEET_70
+  - first:
+      213: -4197105360704913019
+    second: SwordGuy_SHEET_71
+  - first:
+      213: -5469801553194905565
+    second: SwordGuy_SHEET_72
+  - first:
+      213: 348687679463890087
+    second: SwordGuy_SHEET_73
+  - first:
+      213: -7980875175810171446
+    second: SwordGuy_SHEET_74
+  - first:
+      213: 2146422655607891867
+    second: SwordGuy_SHEET_75
+  - first:
+      213: 4570365641913421634
+    second: SwordGuy_SHEET_76
+  - first:
+      213: 6725392848110212377
+    second: SwordGuy_SHEET_77
+  - first:
+      213: 1025817258213863683
+    second: SwordGuy_SHEET_78
+  - first:
+      213: 8462426492403871742
+    second: SwordGuy_SHEET_79
+  - first:
+      213: 4878220945038822550
+    second: SwordGuy_SHEET_80
+  - first:
+      213: 2476151081923966498
+    second: SwordGuy_SHEET_81
+  - first:
+      213: -6270347300110184225
+    second: SwordGuy_SHEET_82
+  - first:
+      213: 6826392035986539240
+    second: SwordGuy_SHEET_83
+  - first:
+      213: 7397220905831129095
+    second: SwordGuy_SHEET_84
+  - first:
+      213: 1215642829899454603
+    second: SwordGuy_SHEET_85
+  - first:
+      213: -541759888681817959
+    second: SwordGuy_SHEET_86
+  - first:
+      213: 3279726263609123366
+    second: SwordGuy_SHEET_87
+  - first:
+      213: -915526759427776066
+    second: SwordGuy_SHEET_88
+  - first:
+      213: -8022081569351640242
+    second: SwordGuy_SHEET_89
+  - first:
+      213: -9208663726143222316
+    second: SwordGuy_SHEET_90
+  - first:
+      213: -7861683220548379645
+    second: SwordGuy_SHEET_91
+  - first:
+      213: 129777134812472799
+    second: SwordGuy_SHEET_92
+  - first:
+      213: -4526811088848929686
+    second: SwordGuy_SHEET_93
+  - first:
+      213: -6875201927221738655
+    second: SwordGuy_SHEET_94
+  - first:
+      213: -5556902890146127563
+    second: SwordGuy_SHEET_95
+  - first:
+      213: -2127137980967839132
+    second: SwordGuy_SHEET_96
+  - first:
+      213: -2727944622634557408
+    second: SwordGuy_SHEET_97
+  - first:
+      213: -8268037840495173770
+    second: SwordGuy_SHEET_98
+  - first:
+      213: -2854894639733298887
+    second: SwordGuy_SHEET_99
+  - first:
+      213: -142503048823659736
+    second: SwordGuy_SHEET_100
+  - first:
+      213: 2111299304488376662
+    second: SwordGuy_SHEET_101
+  - first:
+      213: 563380196885753248
+    second: SwordGuy_SHEET_102
+  - first:
+      213: -803523298684677533
+    second: SwordGuy_SHEET_103
+  - first:
+      213: -4114263196307837862
+    second: SwordGuy_SHEET_104
+  - first:
+      213: -7218406921662307530
+    second: SwordGuy_SHEET_105
+  - first:
+      213: 4647402899055350179
+    second: SwordGuy_SHEET_106
+  - first:
+      213: -8834310627116326352
+    second: SwordGuy_SHEET_107
+  - first:
+      213: -1848131366937172816
+    second: SwordGuy_SHEET_108
+  - first:
+      213: 5215087538056866061
+    second: SwordGuy_SHEET_109
+  - first:
+      213: 6717920737532580395
+    second: SwordGuy_SHEET_110
+  - first:
+      213: 3733451796876032548
+    second: SwordGuy_SHEET_111
+  - first:
+      213: 4335818330238433535
+    second: SwordGuy_SHEET_112
+  - first:
+      213: -1602430953059732875
+    second: SwordGuy_SHEET_113
+  - first:
+      213: 879838687561572299
+    second: SwordGuy_SHEET_114
+  - first:
+      213: 437574225268663528
+    second: SwordGuy_SHEET_115
+  - first:
+      213: 3702944660358856320
+    second: SwordGuy_SHEET_116
+  - first:
+      213: -7748676960603095567
+    second: SwordGuy_SHEET_117
+  - first:
+      213: 3535666387443597278
+    second: SwordGuy_SHEET_118
+  - first:
+      213: -3456342239463898862
+    second: SwordGuy_SHEET_119
+  - first:
+      213: -2945756132286711257
+    second: SwordGuy_SHEET_120
+  - first:
+      213: -3902477008634928887
+    second: SwordGuy_SHEET_121
+  - first:
+      213: -3412961689023306572
+    second: SwordGuy_SHEET_122
+  - first:
+      213: -4248752096441074816
+    second: SwordGuy_SHEET_123
+  - first:
+      213: -3621070718328556135
+    second: SwordGuy_SHEET_124
+  - first:
+      213: -2504426366119700399
+    second: SwordGuy_SHEET_125
+  - first:
+      213: -1849621893872937718
+    second: SwordGuy_SHEET_126
+  - first:
+      213: -2592270136704220855
+    second: SwordGuy_SHEET_127
+  - first:
+      213: 1657988357676698743
+    second: SwordGuy_SHEET_128
+  - first:
+      213: -1338767520463875994
+    second: SwordGuy_SHEET_129
+  - first:
+      213: -346111396696219486
+    second: SwordGuy_SHEET_130
+  - first:
+      213: 526838134613996683
+    second: SwordGuy_SHEET_131
+  - first:
+      213: 77574659118107051
+    second: SwordGuy_SHEET_132
+  - first:
+      213: -4550961370022576657
+    second: SwordGuy_SHEET_133
+  - first:
+      213: -6423240205308225331
+    second: SwordGuy_SHEET_134
+  - first:
+      213: -2665409502700365035
+    second: SwordGuy_SHEET_135
+  - first:
+      213: -2793889416390334230
+    second: SwordGuy_SHEET_136
+  - first:
+      213: -9022420360331966636
+    second: SwordGuy_SHEET_137
+  - first:
+      213: 2807096834888315122
+    second: SwordGuy_SHEET_138
+  - first:
+      213: 7355624933655866489
+    second: SwordGuy_SHEET_139
+  - first:
+      213: -3845383808489397312
+    second: SwordGuy_SHEET_140
+  - first:
+      213: 3472990860413328128
+    second: SwordGuy_SHEET_141
+  - first:
+      213: -5446989194558038509
+    second: SwordGuy_SHEET_142
+  - first:
+      213: -2931209728186917335
+    second: SwordGuy_SHEET_143
+  - first:
+      213: 5630604501999648534
+    second: SwordGuy_SHEET_144
+  - first:
+      213: -3263140772776255576
+    second: SwordGuy_SHEET_145
+  - first:
+      213: -1631762111479698341
+    second: SwordGuy_SHEET_146
+  - first:
+      213: 6123272171155202073
+    second: SwordGuy_SHEET_147
+  - first:
+      213: 1658743806300024855
+    second: SwordGuy_SHEET_148
+  - first:
+      213: -5655687229194964582
+    second: SwordGuy_SHEET_149
+  - first:
+      213: 4172109566391734816
+    second: SwordGuy_SHEET_150
+  - first:
+      213: 6871584219468705167
+    second: SwordGuy_SHEET_151
+  - first:
+      213: 8612294871144315087
+    second: SwordGuy_SHEET_152
+  - first:
+      213: -5263801097688149145
+    second: SwordGuy_SHEET_153
+  - first:
+      213: 3014456713949650076
+    second: SwordGuy_SHEET_154
+  - first:
+      213: 6001630762391002277
+    second: SwordGuy_SHEET_155
+  - first:
+      213: -1096414263913058949
+    second: SwordGuy_SHEET_156
+  - first:
+      213: -3013324186825200660
+    second: SwordGuy_SHEET_157
+  - first:
+      213: -5770657079162062872
+    second: SwordGuy_SHEET_158
+  - first:
+      213: -4533496123444216150
+    second: SwordGuy_SHEET_159
+  - first:
+      213: 2766794137379001453
+    second: SwordGuy_SHEET_160
+  - first:
+      213: -6161177670465751049
+    second: SwordGuy_SHEET_161
+  - first:
+      213: 7390821252789327378
+    second: SwordGuy_SHEET_162
+  - first:
+      213: 4425327551730732659
+    second: SwordGuy_SHEET_163
+  - first:
+      213: 2959755218398228613
+    second: SwordGuy_SHEET_164
+  - first:
+      213: 4378711351203913147
+    second: SwordGuy_SHEET_165
+  - first:
+      213: -8243453163827259149
+    second: SwordGuy_SHEET_166
+  - first:
+      213: 8511924683763732061
+    second: SwordGuy_SHEET_167
+  - first:
+      213: -1426541620487560268
+    second: SwordGuy_SHEET_168
+  - first:
+      213: 8357098451935407492
+    second: SwordGuy_SHEET_169
+  - first:
+      213: -7018600217068441967
+    second: SwordGuy_SHEET_170
+  - first:
+      213: -34179021711212721
+    second: SwordGuy_SHEET_171
+  - first:
+      213: -4333500402749926812
+    second: SwordGuy_SHEET_172
+  - first:
+      213: -2153752643388551388
+    second: SwordGuy_SHEET_173
+  - first:
+      213: 6844441903255106255
+    second: SwordGuy_SHEET_174
+  - first:
+      213: 1282054648050055599
+    second: SwordGuy_SHEET_175
+  - first:
+      213: 2400901771922931089
+    second: SwordGuy_SHEET_176
+  - first:
+      213: 3438445017051290330
+    second: SwordGuy_SHEET_177
+  - first:
+      213: -4840230004036697667
+    second: SwordGuy_SHEET_178
+  - first:
+      213: 9127746696543763957
+    second: SwordGuy_SHEET_179
+  - first:
+      213: 707943578600606534
+    second: SwordGuy_SHEET_180
+  - first:
+      213: 7373778043948585801
+    second: SwordGuy_SHEET_181
+  - first:
+      213: -906060182769546832
+    second: SwordGuy_SHEET_182
+  - first:
+      213: -9047006056894799360
+    second: SwordGuy_SHEET_183
+  - first:
+      213: -3834333055907831197
+    second: SwordGuy_SHEET_184
+  - first:
+      213: -8040162405245873200
+    second: SwordGuy_SHEET_185
+  - first:
+      213: -6458005088567949188
+    second: SwordGuy_SHEET_0
+  - first:
+      213: -5676371048697310136
+    second: SwordGuy_SHEET_1
+  - first:
+      213: 6599289902506164633
+    second: SwordGuy_SHEET_2
+  - first:
+      213: -1834887290184083150
+    second: SwordGuy_SHEET_3
+  - first:
+      213: 52619268335219222
+    second: SwordGuy_SHEET_4
+  - first:
+      213: -2965321771533871457
+    second: SwordGuy_SHEET_5
+  - first:
+      213: -249346564444756119
+    second: SwordGuy_SHEET_6
+  - first:
+      213: 2770333896676634295
+    second: SwordGuy_SHEET_7
+  - first:
+      213: 3332252833168032746
+    second: SwordGuy_SHEET_8
+  - first:
+      213: 7509602867399997703
+    second: SwordGuy_SHEET_9
+  - first:
+      213: 50211126318300583
+    second: SwordGuy_SHEET_10
+  - first:
+      213: 983599762297721103
+    second: SwordGuy_SHEET_11
+  - first:
+      213: -7998598684908837712
+    second: SwordGuy_SHEET_12
+  - first:
+      213: -3679551603485759259
+    second: SwordGuy_SHEET_13
+  - first:
+      213: -8835623948398794699
+    second: SwordGuy_SHEET_14
+  - first:
+      213: 6666778175791514512
+    second: SwordGuy_SHEET_15
+  - first:
+      213: -5729270092134882548
+    second: SwordGuy_SHEET_16
+  - first:
+      213: -8814504852630129489
+    second: SwordGuy_SHEET_17
+  - first:
+      213: -7713428543624011649
+    second: SwordGuy_SHEET_18
+  - first:
+      213: 6533510767588465536
+    second: SwordGuy_SHEET_19
+  - first:
+      213: 1716413110030160155
+    second: SwordGuy_SHEET_20
+  - first:
+      213: 4133814262428546799
+    second: SwordGuy_SHEET_21
+  - first:
+      213: 3147944481998019252
+    second: SwordGuy_SHEET_22
+  - first:
+      213: -2148096655226853489
+    second: SwordGuy_SHEET_23
+  - first:
+      213: -7688329310954618270
+    second: SwordGuy_SHEET_24
+  - first:
+      213: -9183417353297343253
+    second: SwordGuy_SHEET_25
+  - first:
+      213: 4785849711790719452
+    second: SwordGuy_SHEET_26
+  - first:
+      213: 1748810268514653350
+    second: SwordGuy_SHEET_27
+  - first:
+      213: -9182258361978872847
+    second: SwordGuy_SHEET_28
+  - first:
+      213: -6538170909496954714
+    second: SwordGuy_SHEET_29
+  - first:
+      213: -5831697806361566320
+    second: SwordGuy_SHEET_30
+  - first:
+      213: -1270662673480656408
+    second: SwordGuy_SHEET_31
+  - first:
+      213: -2264507614704509459
+    second: SwordGuy_SHEET_32
+  - first:
+      213: 2890211145612156589
+    second: SwordGuy_SHEET_33
+  - first:
+      213: 7412875441831782090
+    second: SwordGuy_SHEET_34
+  - first:
+      213: -6655204742268695855
+    second: SwordGuy_SHEET_35
+  - first:
+      213: 135147805810627823
+    second: SwordGuy_SHEET_36
+  - first:
+      213: 5000359990592003372
+    second: SwordGuy_SHEET_37
+  - first:
+      213: -994355650525112452
+    second: SwordGuy_SHEET_38
+  - first:
+      213: -8314056576439494681
+    second: SwordGuy_SHEET_39
+  - first:
+      213: -6600670832847047795
+    second: SwordGuy_SHEET_40
+  - first:
+      213: 7327157837637900747
+    second: SwordGuy_SHEET_41
+  - first:
+      213: -7769424403506007659
+    second: SwordGuy_SHEET_42
+  - first:
+      213: -1995501052061196993
+    second: SwordGuy_SHEET_43
+  - first:
+      213: 5688023264852317317
+    second: SwordGuy_SHEET_44
+  - first:
+      213: -7765653828772199866
+    second: SwordGuy_SHEET_45
+  - first:
+      213: -5570409804239880086
+    second: SwordGuy_SHEET_46
+  - first:
+      213: 5599144726240873694
+    second: SwordGuy_SHEET_47
+  - first:
+      213: -7792053473106657220
+    second: SwordGuy_SHEET_48
+  - first:
+      213: -5639209682553845411
+    second: SwordGuy_SHEET_49
+  - first:
+      213: -8424995384667209561
+    second: SwordGuy_SHEET_50
+  - first:
+      213: -4321619640064607719
+    second: SwordGuy_SHEET_51
+  - first:
+      213: 3313968087783903508
+    second: SwordGuy_SHEET_52
+  - first:
+      213: -7882860331734125306
+    second: SwordGuy_SHEET_53
+  - first:
+      213: -2398628745018863182
+    second: SwordGuy_SHEET_54
+  - first:
+      213: -1139152947007908761
+    second: SwordGuy_SHEET_55
+  - first:
+      213: -5121524131519945786
+    second: SwordGuy_SHEET_56
+  - first:
+      213: 1391984223952703107
+    second: SwordGuy_SHEET_57
+  - first:
+      213: 5391337136200283061
+    second: SwordGuy_SHEET_58
+  - first:
+      213: 1715184641090588832
+    second: SwordGuy_SHEET_59
+  - first:
+      213: 2805143487581486948
+    second: SwordGuy_SHEET_60
+  - first:
+      213: 1729616235326001672
+    second: SwordGuy_SHEET_61
+  - first:
+      213: -3661591340177798902
+    second: SwordGuy_SHEET_62
+  - first:
+      213: 1466537738990358027
+    second: SwordGuy_SHEET_63
+  - first:
+      213: 7100107491900803282
+    second: SwordGuy_SHEET_64
+  - first:
+      213: -8393023306447055477
+    second: SwordGuy_SHEET_65
+  - first:
+      213: -3697951724726213491
+    second: SwordGuy_SHEET_66
+  - first:
+      213: -8215897621775435302
+    second: SwordGuy_SHEET_67
+  - first:
+      213: -2504875072771882789
+    second: SwordGuy_SHEET_68
+  - first:
+      213: 5918519323378335171
+    second: SwordGuy_SHEET_69
+  - first:
+      213: 3587335750554926146
+    second: SwordGuy_SHEET_70
+  - first:
+      213: 1994557878436184553
+    second: SwordGuy_SHEET_71
+  - first:
+      213: 749485389679296226
+    second: SwordGuy_SHEET_72
+  - first:
+      213: -1018411233547287878
+    second: SwordGuy_SHEET_73
+  - first:
+      213: 7876987818699263198
+    second: SwordGuy_SHEET_74
+  - first:
+      213: 7392017885314499865
+    second: SwordGuy_SHEET_75
+  - first:
+      213: -8932757015961230908
+    second: SwordGuy_SHEET_76
+  - first:
+      213: 7751910781605151026
+    second: SwordGuy_SHEET_77
+  - first:
+      213: 3592150558632287604
+    second: SwordGuy_SHEET_78
+  - first:
+      213: 1989505456608386510
+    second: SwordGuy_SHEET_79
+  - first:
+      213: -903590480609149944
+    second: SwordGuy_SHEET_80
+  - first:
+      213: -2280686191419774211
+    second: SwordGuy_SHEET_81
+  - first:
+      213: 7350593555240727249
+    second: SwordGuy_SHEET_82
+  - first:
+      213: 3109166750636941207
+    second: SwordGuy_SHEET_83
+  - first:
+      213: -7310045676558274494
+    second: SwordGuy_SHEET_84
+  - first:
+      213: -6011327248054097867
+    second: SwordGuy_SHEET_85
+  - first:
+      213: -3063304354787326146
+    second: SwordGuy_SHEET_86
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_0
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 504
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c780e32869e8066a0800000000000000
+      internalID: -6458005088567949188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_1
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 498
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844d51d1b9a7931b0800000000000000
+      internalID: -5676371048697310136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_2
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 504
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991c3b8a333659b50800000000000000
+      internalID: 6599289902506164633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_3
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 504
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239d2b13bbb2986e0800000000000000
+      internalID: -1834887290184083150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_4
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 504
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612367d12f0fab000800000000000000
+      internalID: 52619268335219222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_5
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 504
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96ddfa4f8f09d6d0800000000000000
+      internalID: -2965321771533871457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_6
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 504
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9676e48ee942a8cf0800000000000000
+      internalID: -249346564444756119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_7
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 497
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be62ac4004327620800000000000000
+      internalID: 2770333896676634295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_8
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 497
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae305c6fb4a8e3e20800000000000000
+      internalID: 3332252833168032746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_9
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 497
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709b1a33508773860800000000000000
+      internalID: 7509602867399997703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_10
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 497
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad79fbd0c262b000800000000000000
+      internalID: 50211126318300583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_11
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 497
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f011ae0c5c276ad00800000000000000
+      internalID: 983599762297721103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 455
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b42a1ddfd44ff090800000000000000
+      internalID: -7998598684908837712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 455
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8238dcf4b9fecc0800000000000000
+      internalID: -3679551603485759259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_14
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 479
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53861c205de816580800000000000000
+      internalID: -8835623948398794699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 481
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0934164cd67258c50800000000000000
+      internalID: 6666778175791514512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_16
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 455
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03e708c43b8d70b0800000000000000
+      internalID: -5729270092134882548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 455
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4360ca9869ca580800000000000000
+      internalID: -8814504852630129489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 455
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70aee86b9564f490800000000000000
+      internalID: -7713428543624011649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 455
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bdc465d61bbaa50800000000000000
+      internalID: 6533510767588465536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 455
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11db2f21ace1d710800000000000000
+      internalID: 1716413110030160155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_21
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 455
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe63f777b224e5930800000000000000
+      internalID: 4133814262428546799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_22
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 455
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba942ee3debfab20800000000000000
+      internalID: 3147944481998019252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_23
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 455
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87aff1297d6032e0800000000000000
+      internalID: -2148096655226853489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 391
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2628358e9319d4590800000000000000
+      internalID: -7688329310954618270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_25
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 391
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beccd80b292fd8080800000000000000
+      internalID: -9183417353297343253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_26
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 391
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd101b3d4f0ca6240800000000000000
+      internalID: 4785849711790719452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_27
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 391
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a41f527ca5054810800000000000000
+      internalID: 1748810268514653350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_28
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 391
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb93626ba0129080800000000000000
+      internalID: -9182258361978872847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_29
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 391
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a034a2d230c345a0800000000000000
+      internalID: -6538170909496954714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_30
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 391
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093e4662eb5a11fa0800000000000000
+      internalID: -5831697806361566320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_31
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 391
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e956ddd703bd5ee0800000000000000
+      internalID: -1270662673480656408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_32
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 391
+        width: 24
+        height: 21
+      alignment: 9
+      pivot: {x: 0.6458333, y: 0.5}
+      border: {x: 11, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedde52825ad290e0800000000000000
+      internalID: -2264507614704509459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_33
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 391
+        width: 34
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47727272}
+      border: {x: 7, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae561459b71c1820800000000000000
+      internalID: 2890211145612156589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_34
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 391
+        width: 37
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6a99270f2dfd660800000000000000
+      internalID: 7412875441831782090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_35
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 391
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da44953c86f3a3a0800000000000000
+      internalID: -6655204742268695855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 327
+        width: 22
+        height: 21
+      alignment: 9
+      pivot: {x: 0.70454544, y: 0.5}
+      border: {x: 9, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4148d963420e100800000000000000
+      internalID: 135147805810627823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_37
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 327
+        width: 22
+        height: 21
+      alignment: 9
+      pivot: {x: 0.70454544, y: 0.5}
+      border: {x: 9, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ddf4c1be8d46540800000000000000
+      internalID: 5000359990592003372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_38
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 327
+        width: 22
+        height: 18
+      alignment: 9
+      pivot: {x: 0.70454544, y: 0.5833333}
+      border: {x: 9, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c775c0eddc65332f0800000000000000
+      internalID: -994355650525112452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_39
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 327
+        width: 21
+        height: 19
+      alignment: 9
+      pivot: {x: 0.7380952, y: 0.55263156}
+      border: {x: 9, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7d2dee7998e9c80800000000000000
+      internalID: -8314056576439494681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_40
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 327
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.70454544, y: 0.525}
+      border: {x: 9, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83bed079d4b564a0800000000000000
+      internalID: -6600670832847047795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_41
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 327
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.70454544, y: 0.525}
+      border: {x: 9, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc950ad7b3b4fa560800000000000000
+      internalID: 7327157837637900747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_42
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 328
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.70454544, y: 0.525}
+      border: {x: 9, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591f5cf4ba57d2490800000000000000
+      internalID: -7769424403506007659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_43
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 327
+        width: 22
+        height: 21
+      alignment: 9
+      pivot: {x: 0.70454544, y: 0.5}
+      border: {x: 9, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d59f2ad5e8e44e0800000000000000
+      internalID: -1995501052061196993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_44
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 327
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5841eafd50befee40800000000000000
+      internalID: 5688023264852317317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_45
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 328
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6428167acfada3490800000000000000
+      internalID: -7765653828772199866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_46
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 327
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60cdecdbcde1b2b0800000000000000
+      internalID: -5570409804239880086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_47
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 327
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcc695867824bd40800000000000000
+      internalID: 5599144726240873694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 263
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3001a876a01dd390800000000000000
+      internalID: -7792053473106657220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 263
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d594f69eba08db1b0800000000000000
+      internalID: -5639209682553845411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_50
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 263
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a00b9ec557641b80800000000000000
+      internalID: -8424995384667209561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_51
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 265
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91af89395d58604c0800000000000000
+      internalID: -4321619640064607719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_52
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 267
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411175dea649dfd20800000000000000
+      internalID: 3313968087783903508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_53
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 268
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60538f02b447a9290800000000000000
+      internalID: -7882860331734125306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_54
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 269
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b11c196ddb56bed0800000000000000
+      internalID: -2398628745018863182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_55
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 271
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76411c02e6ae030f0800000000000000
+      internalID: -1139152947007908761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_56
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 263
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3a928ffe0bce8b0800000000000000
+      internalID: -5121524131519945786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_57
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 263
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e06a1d642515310800000000000000
+      internalID: 1391984223952703107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_58
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 263
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3f6939f80e1da40800000000000000
+      internalID: 5391337136200283061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_59
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 263
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a01968f75f8dc710800000000000000
+      internalID: 1715184641090588832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_60
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 199
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f7b41c32fdde620800000000000000
+      internalID: 2805143487581486948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_61
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 199
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802da585dc4d00810800000000000000
+      internalID: 1729616235326001672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 199
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a094e08731a6f2dc0800000000000000
+      internalID: -3661591340177798902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_63
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 199
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e8936bd403a5410800000000000000
+      internalID: 1466537738990358027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_64
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 199
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d846d95526a88260800000000000000
+      internalID: 7100107491900803282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_65
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 199
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8516ab55cdf58b80800000000000000
+      internalID: -8393023306447055477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_66
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 199
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84a62bbf7c3eacc0800000000000000
+      internalID: -3697951724726213491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_67
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 199
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9391784a44bfd80800000000000000
+      internalID: -8215897621775435302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_68
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 199
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd083b88465ec3dd0800000000000000
+      internalID: -2504875072771882789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_69
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 199
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd304a87fdc22250800000000000000
+      internalID: 5918519323378335171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_70
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 199
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cb2edcbd6c8c130800000000000000
+      internalID: 3587335750554926146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_71
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 199
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e14524a2d71eab10800000000000000
+      internalID: 1994557878436184553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_72
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 135
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eefd20bdf4b66a00800000000000000
+      internalID: 749485389679296226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_73
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 135
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2852df060edd1f0800000000000000
+      internalID: -1018411233547287878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_74
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 135
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc06a1efaea05d60800000000000000
+      internalID: 7876987818699263198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_75
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 135
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91541832a19b59660800000000000000
+      internalID: 7392017885314499865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_76
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 135
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1a0ce52d8780480800000000000000
+      internalID: -8932757015961230908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_77
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 135
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2318814d8c1549b60800000000000000
+      internalID: 7751910781605151026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_78
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 135
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d9ffaa6e1e9d130800000000000000
+      internalID: 3592150558632287604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_79
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 135
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd18d30ca42c9b10800000000000000
+      internalID: 1989505456608386510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_80
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 71
+        width: 22
+        height: 21
+      alignment: 9
+      pivot: {x: 0.72727275, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cfddcce3dc573f0800000000000000
+      internalID: -903590480609149944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_81
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 71
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: 0.7380952, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa29441eff5950e0800000000000000
+      internalID: -2280686191419774211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 71
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: 0.7380952, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d23664b4ed820660800000000000000
+      internalID: 7350593555240727249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_83
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 71
+        width: 21
+        height: 22
+      alignment: 9
+      pivot: {x: 0.71428573, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f9b27cfaaf52b20800000000000000
+      internalID: 3109166750636941207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_84
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 71
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.72727275, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2403ddcff208d8a90800000000000000
+      internalID: -7310045676558274494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_85
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 71
+        width: 25
+        height: 22
+      alignment: 9
+      pivot: {x: 0.64, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538eb1f97b9739ca0800000000000000
+      internalID: -6011327248054097867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_86
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 71
+        width: 26
+        height: 20
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e378efd5be4fc75d0800000000000000
+      internalID: -3063304354787326146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_87
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 71
+        width: 26
+        height: 18
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622e0f6f8ade38d20800000000000000
+      internalID: 3279726263609123366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_88
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 71
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb161f153456b43f0800000000000000
+      internalID: -915526759427776066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_89
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 71
+        width: 34
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b5693c057dba090800000000000000
+      internalID: -8022081569351640242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_90
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 71
+        width: 34
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd45337121443080800000000000000
+      internalID: -9208663726143222316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_91
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 71
+        width: 34
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c909e83c0b5e290800000000000000
+      internalID: -7861683220548379645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_92
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 7
+        width: 22
+        height: 25
+      alignment: 9
+      pivot: {x: 0.72727275, y: 0.5}
+      border: {x: 10, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd52774dd9f0dc100800000000000000
+      internalID: 129777134812472799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_93
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 11
+        width: 22
+        height: 23
+      alignment: 9
+      pivot: {x: 0.72727275, y: 0.5}
+      border: {x: 10, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c3cdb7c498d21c0800000000000000
+      internalID: -4526811088848929686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_94
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 9
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.72727275, y: 0.5}
+      border: {x: 10, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1630ed806406690a0800000000000000
+      internalID: -6875201927221738655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_95
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 8
+        width: 22
+        height: 21
+      alignment: 9
+      pivot: {x: 0.72727275, y: 0.5}
+      border: {x: 10, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531af7d534ae1e2b0800000000000000
+      internalID: -5556902890146127563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_96
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 7
+        width: 24
+        height: 22
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 12, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a9b20c643ea72e0800000000000000
+      internalID: -2127137980967839132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_97
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 7
+        width: 25
+        height: 21
+      alignment: 9
+      pivot: {x: 0.76, y: 0.5}
+      border: {x: 13, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0202ee8a1d4642ad0800000000000000
+      internalID: -2727944622634557408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_98
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 8
+        width: 26
+        height: 23
+      alignment: 9
+      pivot: {x: 0.65384614, y: 0.5}
+      border: {x: 11, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f1cc7d367024d80800000000000000
+      internalID: -8268037840495173770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_99
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 8
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939a78773706168d0800000000000000
+      internalID: -2854894639733298887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_100
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 76
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823a47b6b3ab50ef0800000000000000
+      internalID: -142503048823659736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordGuy_SHEET_101
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 74
+        width: 34
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6591f820887dc4d10800000000000000
+      internalID: 2111299304488376662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

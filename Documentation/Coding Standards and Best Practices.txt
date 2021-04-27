@@ -1,0 +1,116 @@
+Coding Standards and Best Practices
+
+Agreeing Members:
+Kurtis McCammon
+Amara Gitomer
+Christian Chinchilla
+Michael Binney
+
+Purpose
+
+To develop reliable and maintainable applications, you must follow coding standards and best practices.
+The naming conventions, coding standards and best practices described in this document are compiled from our own experience.
+All team members are always expected to follow the coding standards and best practices.
+
+
+** Folder Hierarchy **
+Main folder
+Visual Assets
+Art
+Menu items
+Fonts
+Fx
+Models
+Scripts
+AI
+User Control
+Scenes
+Sandbox scenes
+Level scenes
+Audio Assets
+Sound effects
+Menu sounds
+music
+Prefabs
+
+
+
+
+
+
+
+** Commenting standards **
+
+    File header expectation
+        Example:
+Who last edited and when
+What method or line they edited
+
+    Method heading expectation
+        Example:
+What does the method use.
+What should the parameters be passed and used for.
+
+    Code block expectation
+        Example:
+Loops should say how many times they will loop and what it should do on each loop
+
+
+** Naming convention **
+
+    Meaningful, descriptive words to name variables.
+    Good:
+        string CharacterName;
+        int Row, Column;
+        GameObject SpawnedItem;
+    Not Good:
+        string nam
+        int i,j;
+        GameObject temp;
+
+    Capitalization expectation
+        Example:
+ThisCase for global variables in a class
+thisCase for local or temporary variables
+        
+    Standard Prefixing
+        Example:
+        Use _ if needed but only for temporary variables
+
+    Abbreviation use
+        Example:
+No single letter abbreviations. If you are going to abbreviate put a comment above with the full word
+        
+
+** Layout Conventions **    
+
+    Curly braces ( {} ) format
+        Example:
+Even 1 line if statements need curly braces. It helps make it clear what the if statement is doing and makes it easy to add more things to the if statement later.
+        
+    Blank line expectation
+        Example:
+There should always be a blank line between methods
+
+    Maximum characters per line
+        none
+    Maximum nested conditions
+        Try to keep it below 5
+    Maximum lines per method
+        Follow the DRY method. If you don’t know how or if you are ask someone.
+    Maximum lines per file
+    Keep a file relevant to itself. If you notice you are making a common method possibly make a library for others to use.
+
+    #region usage
+        Example:
+Organizing methods and helping clean up clutter.
+
+** Programming Practices **
+
+    Static values (hardcoded numbers. Const variables, and #defines)
+    Minimize them.
+    Commenting out code
+    We will keep it until there we hit a checkpoint build. At that time we will remove them
+    DRY practices (“Don’t Repeat Yourself")
+
+
